@@ -1,0 +1,27 @@
+body {
+    margin: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+    line-height: 100%;
+    #title {
+        font-size: 30;
+        font-weight: 800;
+    }
+    #subtitle {
+        font-family: 'Roboto Mono', monospace;
+        font-size: 15;
+        font-weight: 300;
+    }
+}
+
+section {
+    #abstract {
+        display: inline-block;
+        font-weight: 500;
+        font-size: 10;
+        line-height: 140%;
+    }
+}
