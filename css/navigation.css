@@ -8,6 +8,7 @@
 
     /* Properties */
     position: fixed;
+    left: 0;
     bottom: 0;
     background-color: var(--color-navbar-bg);
     display: flex;
@@ -32,7 +33,7 @@
 
 .navbar-links {
     margin: 0px;
-    padding-top: 3px;
+    padding-top: 25px;
 }
 
 .navbar a {
