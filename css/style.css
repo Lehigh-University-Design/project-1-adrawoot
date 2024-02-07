@@ -21,6 +21,7 @@ header {
 section {
     #abstract {
         display: inline-block;
+        text-align: center;
         font-weight: 500;
         font-size: 20px;
         line-height: 140%;
